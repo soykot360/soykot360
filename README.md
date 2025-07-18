@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:285430,100:E3DE61&height=200&section=header&text=Md%20Shariful%20Islam&fontSize=45&fontAlignY=40&desc=CSE%20Student%20@%20DIU&descSize=20&animation=twinkling" width="100%" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-
 ---
 
 <img src="https://img.shields.io/badge/Student@DIU-E3DE61?style=for-the-badge&logo=google-scholar&logoColor=285430"/>
