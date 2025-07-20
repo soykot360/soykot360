@@ -3,15 +3,12 @@
 ---
 
 <img src="https://img.shields.io/badge/Student@DIU-E3DE61?style=for-the-badge&logo=google-scholar&logoColor=285430"/>
-<img src="https://img.shields.io/badge/Server%20Administrator-285430?style=for-the-badge&logo=serverfault&logoColor=E3DE61"/> 
-<img src="https://img.shields.io/badge/Currently@Smart%20Soft%20Limited-437057?style=for-the-badge"/>
 <br />
 
 ### 👨‍💻 About Me
 
 > 🚀 **Driven by curiosity & passion for technology**  
 > 🏫 Student of Computer Science & Engineering at [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)  
-> 💼 Server Administrator at **Smart Soft Limited**  
 > 🎯 Focused on building skills in **Server Administration** & **DevOps**  
 > 🎓 CCNA, MTCNA certified (Dizit IT Limited, 2022)
 
